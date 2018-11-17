@@ -1,0 +1,7 @@
+?token=NTEzNDU2OTY1MDkxODUyMzA3.DtISsQ.weHkAUISUHfDb0xtrhS_4wnLbBg
+owner=464025572071178241
+prefix= p
+game= phelp
+stayinchannel=true
+songinstatus=false
+token=NTEzNDU2OTY1MDkxODUyMzA3.DtISsQ.weHkAUISUHfDb0xtrhS_4wnLbBg
