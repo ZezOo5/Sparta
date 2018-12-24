@@ -1,7 +1,7 @@
-?token=NTEzNDU2OTY1MDkxODUyMzA3.DtISsQ.weHkAUISUHfDb0xtrhS_4wnLbBg
+?token=NDk4MjUxMjg5MTcyNTA4Njgz.DwK9JA.DDbnYmKtfd54xYgI7uF5i6iTF1E
 owner=464025572071178241
 prefix= 1
 game= type 1help
 stayinchannel=true
 songinstatus=false
-token=NTEzNDU2OTY1MDkxODUyMzA3.DtISsQ.weHkAUISUHfDb0xtrhS_4wnLbBg
+token=NDk4MjUxMjg5MTcyNTA4Njgz.DwK9JA.DDbnYmKtfd54xYgI7uF5i6iTF1E
