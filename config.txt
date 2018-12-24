@@ -1,6 +1,6 @@
 ?token=NTEzNDU2OTY1MDkxODUyMzA3.DtISsQ.weHkAUISUHfDb0xtrhS_4wnLbBg
 owner=464025572071178241
-prefix= 7
+prefix= 1
 game= type 7help
 stayinchannel=true
 songinstatus=false
