@@ -1,7 +1,7 @@
 ?token=NTEzNDU2OTY1MDkxODUyMzA3.DyYKhQ.hg5xbPv9HbbLTDA38juyCEZN674
 owner=464025572071178241
-prefix= m
+prefix= 1
 game= type mhelp
 stayinchannel=true
-songinstatus=false
+songinstatus=true
 token=NTEzNDU2OTY1MDkxODUyMzA3.DyYKhQ.hg5xbPv9HbbLTDA38juyCEZN674
